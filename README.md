@@ -10,15 +10,15 @@ The main functionality is to retrieve current FireFighter.
 
 This application can be run with this following command:
 
-	- java -jar technical-test-0.0.1-SNAPSHOT.jar
+	java -jar technical-test-0.0.1-SNAPSHOT.jar
 
 The uri is :
 
-	- http://localhost:9090
+	 http://localhost:9090
 
 Swagger documentation for rest controller and rest api is available at this uri :
 
-    - http://localhost:9090/swagger-ui.html
+     http://localhost:9090/swagger-ui.html
 
 
 
@@ -33,7 +33,7 @@ This Rest API have these REST routes:
 
 Detail about these routes are available at this uri :
 
- 	- http://localhost:9090/swagger-ui.html#/fire-fighter-controller
+ 	 http://localhost:9090/swagger-ui.html#/fire-fighter-controller
 
 
 ## Structure
